@@ -4,6 +4,13 @@ Vyanjan is an Web-Application which is used to order food within a campus, tech 
 # Technology Used:-
 HTML,CSS,ReactJS & MERN STACK
 
+# ScreenShots
+![1](https://github.com/PradumnSrivastava/Vyanjan/assets/131151467/3df2fee9-fe0a-491f-b183-88ac75da92c9)
+![2](https://github.com/PradumnSrivastava/Vyanjan/assets/131151467/d5d18506-ec5c-4487-be07-55ace2863002)
+![3](https://github.com/PradumnSrivastava/Vyanjan/assets/131151467/e1a800fc-c63b-4be1-bbeb-348a1f8e8ce3)
+![4](https://github.com/PradumnSrivastava/Vyanjan/assets/131151467/68213eeb-f93d-48c8-b58e-231098f38380)
+![5](https://github.com/PradumnSrivastava/Vyanjan/assets/131151467/48ee6bc0-f069-4e93-be62-afd30967f483)
+
 
 # Getting Started with Create React App
 
