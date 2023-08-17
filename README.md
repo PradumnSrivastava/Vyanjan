@@ -1,3 +1,10 @@
+
+Vyanjan is an Web-Application which is used to order food within a campus, tech park or mall with many outlets to avoid long waiting time or get it delivered anywhere within a specific place.
+
+# Technology Used:-
+HTML,CSS,ReactJS & MERN STACK
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+How To Run It:-
+1.clone your Repository.
+2.Run "npm -i"
+3.ng serve
+You are good to go.Happy Coding:)
